@@ -20,10 +20,10 @@ Model Building:
     3. Accuracy - Overall, the model is correct 99% of the time in making predictions for all classes combined.
 
 -  Machine Learning Model 2:
-  -  Created a similar model to the first except this time used the RandomOverSampler module form imbalanced-learn to resample my imbalanced data.
-     1. Precision - When the model predicts class 0, it's correct 99% of the time. When the model predicts class 1, it's correct 99% of the time.
-     2. Recall - Out of all actual class 0 instances, the model correctly identifies 99% of them. Out of all actual class 1 instances, the model correctly identifies 99% of them.
-     3. Accuracy - Overall, the model is correct 99% of the time in making predictions for all classes combined.
+  - Created a similar model to the first except this time used the RandomOverSampler module form imbalanced-learn to resample my imbalanced data.
+  1. Precision - When the model predicts class 0, it's correct 99% of the time. When the model predicts class 1, it's correct 99% of the time.
+  2. Recall - Out of all actual class 0 instances, the model correctly identifies 99% of them. Out of all actual class 1 instances, the model correctly identifies 99% of them.
+  3. Accuracy - Overall, the model is correct 99% of the time in making predictions for all classes combined.
 
 Outcomes: 
 - Both models exhibit strong performance with an overall accuracy of approximately 99%. Model 1 demonstrates exceptional precision and recall for class 0, indicating high correctness and coverage in identifying healthy loans. However, it slightly lags in precision and recall for class 1 (risky loans) compared to Model 2.
