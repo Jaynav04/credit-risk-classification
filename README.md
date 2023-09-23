@@ -1,6 +1,13 @@
 # credit-risk-classification
+## Topic
 Evaluating borrower creditworthiness by examining historical borrowing behavior within a peer-to-peer lending service company.
 
+### Tools Used 
+- Python
+  - Pandas, Sklearn, NumPy 
+- Jupyter Notebook 
+
+## Analysis Report
 Discovery:
 - For this project, I followed a step-by-step approach to analyze data. First, I identified the main question: how to tell if someone is likely to pay back a loan or not. 
 
