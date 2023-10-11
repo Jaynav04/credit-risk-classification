@@ -4,7 +4,8 @@ Evaluating borrower creditworthiness by examining historical borrowing behavior 
 
 ### Tools Used 
 - Python
-  - Pandas, Sklearn, NumPy 
+  - Pandas, Sklearn, NumPy
+  - sklearn metrics and modeling
 - Jupyter Notebook 
 
 ## Analysis Report
