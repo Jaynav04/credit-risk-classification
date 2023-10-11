@@ -4,13 +4,13 @@ Evaluating borrower creditworthiness by examining historical borrowing behavior 
 
 ### Tools Used 
 - Python
-  - Pandas, Sklearn, NumPy
-  - sklearn metrics and modeling
+  - Pandas, NumPy
+  - Sklearn metrics and modeling
 - Jupyter Notebook 
 
 ## Analysis Report
 Discovery:
-- For this project, I followed a step-by-step approach to analyze data. First, I identified the main question: how to tell if someone is likely to pay back a loan or not. 
+- For this project, I followed a step-by-step approach to analyze data. First, I identified the main problem I am trying to solve in the simplest form: Find an accurate model that best shows, using the given features, if an applicant is likely to pay back a loan.
 
 Data Preparation:
 - Next, I prepared the data. Initially, I examined the provided data source and utilized Jupyter Notebook to visualize the data, inspecting its columns and rows. This allowed me to determine if the data was sufficiently cleaned and organized for comprehensible analysis. 
